@@ -1,0 +1,33 @@
+*{
+    font-family: "Inter", sans-serif;
+}
+header{
+    background-color:#C63C51;
+}
+header span{
+    color: #e3e0b3;
+}
+.nav-item a{
+    color: #e3e0b3;
+}
+
+.nav-item a:visited{
+    color: bisque;
+}
+.nav-item a:hover{
+    color: rgb(27, 163, 216);
+}
+
+#nav-butoon{
+    background-color:rgb(27, 163, 216);
+} 
+.bi{
+    color: #EF5A6F;
+}
+.img-proyecto1{
+    background-image: url('assest/Clondepinterest.png');
+    opacity: 0.6;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
