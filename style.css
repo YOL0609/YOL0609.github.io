@@ -21,13 +21,23 @@ header span{
 #nav-butoon{
     background-color:rgb(27, 163, 216);
 } 
-.bi{
+.icon-habilidades{
     color: #EF5A6F;
+    font-size:  2em;
 }
 .img-proyecto1{
     background-image: url('assest/Clondepinterest.png');
     opacity: 0.6;
     background-size: contain;
     background-repeat: no-repeat;
+}
+footer{
+    background-color: #C63C51;
+}
+footer .icon-footer i{
+    color: white;
+}
+footer p a{
+    color: white;
 }
 
